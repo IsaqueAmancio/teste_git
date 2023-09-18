@@ -7,4 +7,5 @@ elif escolha == 2:
 else:
     print("mensagem invalida")
     print('tá errado')
+    print("teste_01")
 print(f'vc escolheu a opção {escolha + " oi"}')
