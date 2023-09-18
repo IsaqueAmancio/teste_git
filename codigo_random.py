@@ -7,4 +7,4 @@ elif escolha == 2:
 else:
     print("mensagem invalida")
     print('tá errado')
-print(f'vc escolheu a opção {escolha}')
+print(f'vc escolheu a opção {escolha + " oi"}')
