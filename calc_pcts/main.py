@@ -1,0 +1,7 @@
+saca = int(input("qtd de pacotes recebidos da saca: "))
+pacotes_sm = int(((saca/100)*20))
+pacotes_gl = int(((saca/100)*40))
+pacotes_dv = int(((saca/100)*40))
+print(f"\nPacotes Samuel : {pacotes_sm} \n Ganhos do dia = {pacotes_sm*1.20}\n -----------------------------")
+print(f"Pacotes Samuel : {pacotes_gl} \n Ganhos do dia = {pacotes_sm*1.20}\n -----------------------------")
+print(f"Pacotes Samuel : {pacotes_dv} \n Ganhos do dia = {pacotes_sm*1.20}\n -----------------------------")

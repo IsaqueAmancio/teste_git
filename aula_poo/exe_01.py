@@ -4,7 +4,7 @@ class Endereco:
         self.numero = numero
         self.cep = cep 
 class Pessoa:
-    def __init__(self,nome,idade,endereco):
+    def __init__(self,nome,idade,endereco):D
         self.nome = nome
         self.idade = idade
         self.endereco = endereco 
